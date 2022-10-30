@@ -8,4 +8,4 @@ and coding stuff.
 
 - My mother tongue is german and I'm not very got in english.
 
-- Why do you this file?
+- Why do you read this file?
